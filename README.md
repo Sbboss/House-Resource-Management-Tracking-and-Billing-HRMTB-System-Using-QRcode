@@ -68,3 +68,8 @@ Tkinter is one of the best GUI Module present in python
 
 You have to give your paytm payment link in-order to recieve payment in function named payment_link()
 
+
+
+
+
+For query:- shivabaghel203@gmail.com
