@@ -50,11 +50,21 @@ Mysql.connector is a library of python used to connect the mysql database to the
 
 Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
 Tkinter is one of the best GUI Module present in python 
-Ease to use 
-Ease to Code
-Ease to Create Applications
+ Ease to use 
+ Ease to Code
+ Ease to Create Applications
 
 
 # Pilow
 
  Pillow is the friendly PIL fork by Alex Clark and Contributors. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+
+ # SMS
+
+  For Sms you have to get your own token available on different websites i get it from https://msg91.com/
+  and just paste on the function named smsSender().
+ 
+ # Paytm
+
+You have to give your paytm payment link in function named payment_link()
+
