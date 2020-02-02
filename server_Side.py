@@ -101,7 +101,6 @@ cv2.destroyAllWindows()
 if Code in houses:
     root = Tk()
     root.title("House Resource Management, Tracking and Billing System 🤩😎")
-    root.iconbitmap(False, "5.ico")
 
     img = Image.open("bu.jpg")
     photo = ImageTk.PhotoImage(img)
