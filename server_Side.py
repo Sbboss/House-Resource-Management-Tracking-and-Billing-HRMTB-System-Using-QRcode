@@ -13,7 +13,7 @@ accessId = dB.cursor(buffered=True)
 accessId.execute("show tables")
 
 houses = {}
-mNo = [8791622454, 9760778113, 8218872092, 9012887831]
+mNo = [4521369785, 5412593785, 4521369856, 5412589632]
 
 mnoi = 0
 
