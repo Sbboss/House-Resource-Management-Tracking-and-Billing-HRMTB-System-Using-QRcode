@@ -181,7 +181,7 @@ cv2.destroyAllWindows()
 if Code in hname:
     root = Tk()
     root.title("House Resource Management, Tracking and Billing System 🤩😎")
-    root.iconbitmap(False, "5.ico")
+    
 
     frane = Frame(root)
     frane.pack()
