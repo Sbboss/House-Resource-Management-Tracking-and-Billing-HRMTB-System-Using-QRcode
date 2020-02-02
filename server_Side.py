@@ -7,7 +7,7 @@ import datetime
 from PIL import Image, ImageTk
 import time
 
-dB = sql.connect(host="localhost", username="root", passwd="ni39yqmh", database="houseData")
+dB = sql.connect(host="localhost", username="root", passwd=yourmysqlpassword, database="houseData")
 
 accessId = dB.cursor(buffered=True)
 accessId.execute("show tables")
