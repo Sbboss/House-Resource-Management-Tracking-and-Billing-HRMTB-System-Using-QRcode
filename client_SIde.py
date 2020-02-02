@@ -6,7 +6,7 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 import requests
 
-dB = sql.connect(host="localhost", username="root", passwd="ni39yqmh", database="houseData")
+dB = sql.connect(host="localhost", username="root", passwd=yourmysqlpassword, database="houseData")
 
 accessId = dB.cursor()
 accessId.execute("show tables")
